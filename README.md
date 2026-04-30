@@ -110,15 +110,6 @@ The game was designed using a **modular Blueprint architecture** to ensure scala
 - Sound design and polish
 - UI/UX improvements
 
----
-
-## 👨‍💻 Team
-
-- Christian Alvarez  
-- Stanley Delva  
-- Hendrick Christian  
-
----
 
 ## 📫 Contact
 
