@@ -47,7 +47,7 @@ The game emphasizes:
 ## 🛠 Tech Stack
 
 - **Engine:** Unreal Engine 5.4
-- **Scripting:** Blueprint System (No C++)
+- **Scripting:** Blueprint System
 - **Architecture:**
   - Blueprint Interfaces (Decoupled systems)
   - Event Dispatchers
