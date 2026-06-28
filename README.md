@@ -67,8 +67,12 @@ The game emphasizes:
 ---
 
 ## 📸 Screenshots
+<img width="1892" height="811" alt="Screenshot 2026-06-28 125914" src="https://github.com/user-attachments/assets/1388804e-20d6-4674-964e-a497d0e5aa7f" />
+<img width="1909" height="812" alt="Screenshot 2026-06-28 130146" src="https://github.com/user-attachments/assets/e470f299-3876-474f-bc95-9d2cf99f6c25" />
+<img width="1901" height="803" alt="Screenshot 2026-06-28 130329" src="https://github.com/user-attachments/assets/6463ac0d-ccb1-48f4-b161-6408f9553d11" />
+<img width="1894" height="808" alt="Screenshot 2026-06-28 130256" src="https://github.com/user-attachments/assets/76821d12-f14f-4007-b437-fc2c0bf7f03f" />
 
-> *(Add screenshots here — gameplay, combat, UI, environments)*
+
 
 ---
 
